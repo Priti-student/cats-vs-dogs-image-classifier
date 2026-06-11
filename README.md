@@ -163,7 +163,7 @@ These visualizations help analyze learning behavior and identify overfitting or 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Priti-student/cats-vs-dogs-image-classifier
 ```
 
 ### 2. Install Dependencies
